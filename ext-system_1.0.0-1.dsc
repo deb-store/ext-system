@@ -1,4 +1,4 @@
-Format: 1.0
+Format: 3.0 (quilt)
 Source: ext-system
 Binary: ext-system
 Architecture: all
@@ -13,8 +13,11 @@ Build-Depends: debhelper (>= 13), debhelper-compat (= 13)
 Package-List:
  ext-system deb admin optional arch=all
 Checksums-Sha1:
- 1a249fc79e65e9e004ab731f932ec2af94559a55 750 ext-system_1.0.0-1.tar.gz
+ ffd57a69f25e0f0810166fa92957996b87c52341 488 ext-system_1.0.0.orig.tar.xz
+ 3c5625571ad120cca905dfe8b275e440007b9591 824 ext-system_1.0.0-1.debian.tar.xz
 Checksums-Sha256:
- 487636e2c4d446f6d4898a96f30c53507f45f3bdfb05fcf02f8b63bd9972bb98 750 ext-system_1.0.0-1.tar.gz
+ 7c1408ea08363dd9fa63c4f37b1e52f45b8fd8d3a8d4a956484ad4bb5e44a680 488 ext-system_1.0.0.orig.tar.xz
+ b0992d7ebd694110d1b3adb2e0cd08c44033548d3aa943d4d909d9fdc36f637b 824 ext-system_1.0.0-1.debian.tar.xz
 Files:
- ebe0e7e7f77e1ff82f3cd4169263df2c 750 ext-system_1.0.0-1.tar.gz
+ 9068729b524eb534b165199969752faa 488 ext-system_1.0.0.orig.tar.xz
+ dcdbd4d8d79867b08e16fc461c6c1124 824 ext-system_1.0.0-1.debian.tar.xz
