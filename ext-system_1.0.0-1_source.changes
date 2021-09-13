@@ -1,0 +1,25 @@
+Format: 1.8
+Date: Tue, 12 Nov 2019 14:00:00 +0300
+Source: ext-system
+Architecture: source
+Version: 1.0.0-1
+Distribution: unstable
+Urgency: medium
+Maintainer: Package Store <kitsune.solar@gmail.com>
+Changed-By: Package Store <kitsune.solar@gmail.com>
+Changes:
+ ext-system (1.0.0-1) unstable; urgency=medium
+ .
+   * Initial Release
+Checksums-Sha1:
+ cebfda915929d1ceb797cf3823a757e428dadef1 759 ext-system_1.0.0-1.dsc
+ 1a249fc79e65e9e004ab731f932ec2af94559a55 750 ext-system_1.0.0-1.tar.gz
+ b538b5945bed9633fe72d5f08e1b9032476f36ea 4400 ext-system_1.0.0-1_source.buildinfo
+Checksums-Sha256:
+ 9e79589cb2bcf29de4691b48652679e0bec0948df21539f890be20b07998fd2e 759 ext-system_1.0.0-1.dsc
+ 487636e2c4d446f6d4898a96f30c53507f45f3bdfb05fcf02f8b63bd9972bb98 750 ext-system_1.0.0-1.tar.gz
+ 2644a87fce93f16800c2aea975111b2f3bd2dccd4baa4dafeea70830c9042348 4400 ext-system_1.0.0-1_source.buildinfo
+Files:
+ f5f74827b6cfb119aeb813a2de79dff6 759 admin optional ext-system_1.0.0-1.dsc
+ ebe0e7e7f77e1ff82f3cd4169263df2c 750 admin optional ext-system_1.0.0-1.tar.gz
+ 0c3a680f609d40a1e88bfc4e6f851459 4400 admin optional ext-system_1.0.0-1_source.buildinfo
