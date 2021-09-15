@@ -13,11 +13,11 @@ Build-Depends: debhelper (>= 13), debhelper-compat (= 13)
 Package-List:
  ext-system deb admin optional arch=all
 Checksums-Sha1:
- cb466cf839e98eaf5029adee62718556ef4329ee 472 ext-system_1.0.0.orig.tar.xz
- 3c5625571ad120cca905dfe8b275e440007b9591 824 ext-system_1.0.0-1.debian.tar.xz
+ 8a5a4743298e873afe969b787eb61c1e65856cdd 472 ext-system_1.0.0.orig.tar.xz
+ 4ee762a8dcbb67a8c751b00221ff1e5e568abb83 816 ext-system_1.0.0-1.debian.tar.xz
 Checksums-Sha256:
- e2d890eae1aa387765460ba2a10e17dc5f9986cafce1c0d73709412437a010ac 472 ext-system_1.0.0.orig.tar.xz
- b0992d7ebd694110d1b3adb2e0cd08c44033548d3aa943d4d909d9fdc36f637b 824 ext-system_1.0.0-1.debian.tar.xz
+ c96332ee5e78f4cce00db9480e5f0deb86ff35ed1b11ee16c1b8ff0995871e30 472 ext-system_1.0.0.orig.tar.xz
+ d9d19101dcc84d49c0edce1ff8a8e700d8326c493b7375c77ae06d3de8bf08ef 816 ext-system_1.0.0-1.debian.tar.xz
 Files:
- c5fa5ab956cec5d7a70a40f522dce4e1 472 ext-system_1.0.0.orig.tar.xz
- dcdbd4d8d79867b08e16fc461c6c1124 824 ext-system_1.0.0-1.debian.tar.xz
+ 3cd715abecacdffca3164386006d162e 472 ext-system_1.0.0.orig.tar.xz
+ 8a9f53db8ac6337c28ae0bf1a9fcebae 816 ext-system_1.0.0-1.debian.tar.xz
