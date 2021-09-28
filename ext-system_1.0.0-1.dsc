@@ -9,15 +9,15 @@ Homepage: https://pkgstore.gitlab.io
 Standards-Version: 4.5.1
 Vcs-Browser: https://github.com/pkgstore/linux-deb-ext-system
 Vcs-Git: https://github.com/pkgstore/linux-deb-ext-system.git
-Build-Depends: debhelper (>= 13), debhelper-compat (= 13)
+Build-Depends: debhelper-compat (= 13)
 Package-List:
  ext-system deb admin optional arch=all
 Checksums-Sha1:
- 8cee0bfe2ec85c466b599ae31eef4a157e1a41db 472 ext-system_1.0.0.orig.tar.xz
- 4ee762a8dcbb67a8c751b00221ff1e5e568abb83 816 ext-system_1.0.0-1.debian.tar.xz
+ ecaef4e9dfe7da35bb119d0bcccfb760bb80a657 472 ext-system_1.0.0.orig.tar.xz
+ 532eaf55535d1abd276552d18d88feca39aa6ed2 808 ext-system_1.0.0-1.debian.tar.xz
 Checksums-Sha256:
- 76bd67489437333438ef6492d0821bb15577e73c4afd95346bf211e71d66ff6e 472 ext-system_1.0.0.orig.tar.xz
- d9d19101dcc84d49c0edce1ff8a8e700d8326c493b7375c77ae06d3de8bf08ef 816 ext-system_1.0.0-1.debian.tar.xz
+ a7e4ac4b5247ed391044656977ad054dddbe5bd023d48ccdb9325001b29a7275 472 ext-system_1.0.0.orig.tar.xz
+ 31f9c39ab60f7b53a9b0e125c6192f368bdfdad1d286be6e2ba52713a7b300cc 808 ext-system_1.0.0-1.debian.tar.xz
 Files:
- 4bbdfe2dfb65067147c457831352ea97 472 ext-system_1.0.0.orig.tar.xz
- 8a9f53db8ac6337c28ae0bf1a9fcebae 816 ext-system_1.0.0-1.debian.tar.xz
+ 95170c552d0ea504bda6df5940de92b5 472 ext-system_1.0.0.orig.tar.xz
+ 6c1f21f86da669c73ce1aaa4468055f3 808 ext-system_1.0.0-1.debian.tar.xz
