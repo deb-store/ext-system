@@ -1,0 +1,25 @@
+Format: 1.8
+Date: Sat, 02 Oct 2021 21:00:00 +0300
+Source: ext-system
+Architecture: source
+Version: 1.0.0-2
+Distribution: unstable
+Urgency: medium
+Maintainer: Package Store <kitsune.solar@gmail.com>
+Changed-By: Package Store <kitsune.solar@gmail.com>
+Changes:
+ ext-system (1.0.0-2) unstable; urgency=medium
+ .
+   * ADD: "contrib-non-free" Debian repository.
+Checksums-Sha1:
+ 9ad4cb8e5fc91224ca5a56d0da34150a2af08535 1010 ext-system_1.0.0-2.dsc
+ c0ac65e0e80be9317a99675e37af28955288dee4 884 ext-system_1.0.0-2.debian.tar.xz
+ af6f37c2a7459eb88b4c1dc5995eaf2fe1a57943 4403 ext-system_1.0.0-2_source.buildinfo
+Checksums-Sha256:
+ 9c50563662f4860a0a263f569505d8eaa23aaad4bc3dafb2d7ac0a88bd8ee28c 1010 ext-system_1.0.0-2.dsc
+ 7b613b35ae5bb88443f9fd2b9b2daa8ce9e4533702bd192ad16f4436538cd62c 884 ext-system_1.0.0-2.debian.tar.xz
+ fced402fed5d455ae0f69c8b043b8e9d4e79fc5111acf73cd1632dd151bcd671 4403 ext-system_1.0.0-2_source.buildinfo
+Files:
+ 41c9f95e34b181a771baf7b3d620d405 1010 admin optional ext-system_1.0.0-2.dsc
+ f8662db0cda7dae0e907dfc00bf495f2 884 admin optional ext-system_1.0.0-2.debian.tar.xz
+ 7907521a4425979ad8f1d4b1bc8ca788 4403 admin optional ext-system_1.0.0-2_source.buildinfo
