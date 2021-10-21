@@ -1,0 +1,25 @@
+Format: 1.8
+Date: Thu, 21 Oct 2021 12:00:00 +0000
+Source: ext-system
+Architecture: source
+Version: 1.0.0-3
+Distribution: unstable
+Urgency: medium
+Maintainer: Package Store <kitsune.solar@gmail.com>
+Changed-By: Package Store <kitsune.solar@gmail.com>
+Changes:
+ ext-system (1.0.0-3) unstable; urgency=medium
+ .
+   * ADD: "backports" Debian repository.
+Checksums-Sha1:
+ dac71e288efff13ce4d8ceacf171ab1588714c2b 1010 ext-system_1.0.0-3.dsc
+ b567a684529a73be698a9410a9f793790d8a80dd 900 ext-system_1.0.0-3.debian.tar.xz
+ 57523ecea59981fe64fcaaaf3f8d145de0d5ef10 4507 ext-system_1.0.0-3_source.buildinfo
+Checksums-Sha256:
+ ae94fb369e9bbb287d78714d853b643706ae41409b527f3c4b8db336f3eeeec6 1010 ext-system_1.0.0-3.dsc
+ 020c3eaca69e97aa0ba7c90a6a139f2af9fb669e886497c2d36a137343fdee24 900 ext-system_1.0.0-3.debian.tar.xz
+ eda97e777432ba38b1132e84f12d324589fee468ba6883786b465c2b51227035 4507 ext-system_1.0.0-3_source.buildinfo
+Files:
+ cef15db19d9cb882ff581912b1121567 1010 admin optional ext-system_1.0.0-3.dsc
+ 45fe6f9f5e0a11fab5f08fc51afe8061 900 admin optional ext-system_1.0.0-3.debian.tar.xz
+ 62310f8737d3c11f8318222704ebbeb9 4507 admin optional ext-system_1.0.0-3_source.buildinfo
