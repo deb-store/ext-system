@@ -1,16 +1,16 @@
 Format: 1.0
 Source: ext-system
 Architecture: source
-Version: 1.0.0-5
+Version: 1.0.0-6
 Checksums-Md5:
- 39aa77d03dbea5b218a99abbd3f976e4 1010 ext-system_1.0.0-5.dsc
+ c8f069f1c2a788354c4f44cd0abb22c8 1010 ext-system_1.0.0-6.dsc
 Checksums-Sha1:
- e243bc0f13586280e78dca82e9a1f15ca10bd484 1010 ext-system_1.0.0-5.dsc
+ 0fd5c7f5aaa0182f4517f1201adbfe4c3de1bb9a 1010 ext-system_1.0.0-6.dsc
 Checksums-Sha256:
- f7a4b35f90c5ef11e85be0bbe1b1baa8a6cb1ffc8ffcb67cfdb102c9e0a1fc8e 1010 ext-system_1.0.0-5.dsc
+ eb725e43a9e333a8d72c0fae08a973ced306895dafa3a5c0ebc14012027c005b 1010 ext-system_1.0.0-6.dsc
 Build-Origin: Debian
 Build-Architecture: amd64
-Build-Date: Mon, 25 Oct 2021 09:40:06 +0000
+Build-Date: Mon, 25 Oct 2021 09:53:46 +0000
 Installed-Build-Depends:
  autoconf (= 2.69-14),
  automake (= 1:1.16.3-2),
@@ -161,4 +161,4 @@ Installed-Build-Depends:
  zlib1g (= 1:1.2.11.dfsg-2)
 Environment:
  DEB_BUILD_OPTIONS="parallel=2"
- SOURCE_DATE_EPOCH="1635165000"
+ SOURCE_DATE_EPOCH="1635165600"
