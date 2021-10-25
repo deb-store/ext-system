@@ -1,6 +1,6 @@
  dpkg-buildpackage -us -uc -ui -i -d -S
 dpkg-buildpackage: info: source package ext-system
-dpkg-buildpackage: info: source version 1.0.0-4
+dpkg-buildpackage: info: source version 1.0.0-5
 dpkg-buildpackage: info: source distribution unstable
 dpkg-buildpackage: info: source changed by Package Store <kitsune.solar@gmail.com>
  dpkg-source -i --before-build .
@@ -15,16 +15,15 @@ dpkg-source: warning: ignoring deletion of file sysctl.d/00-sysctl.custom.conf, 
 dpkg-source: warning: ignoring deletion of directory sources.list.d
 dpkg-source: warning: ignoring deletion of file sources.list.d/backports.list, use --include-removal to override
 dpkg-source: warning: ignoring deletion of file sources.list.d/contrib-non-free.list, use --include-removal to override
-dpkg-source: info: building ext-system in ext-system_1.0.0-4.debian.tar.xz
-dpkg-source: info: building ext-system in ext-system_1.0.0-4.dsc
+dpkg-source: info: building ext-system in ext-system_1.0.0-5.debian.tar.xz
+dpkg-source: info: building ext-system in ext-system_1.0.0-5.dsc
  dpkg-genbuildinfo --build=source
- dpkg-genchanges --build=source >../ext-system_1.0.0-4_source.changes
+ dpkg-genchanges --build=source >../ext-system_1.0.0-5_source.changes
 dpkg-genchanges: info: not including original source code in upload
  dpkg-source -i --after-build .
 dpkg-buildpackage: info: binary and diff upload (original source NOT included)
-Now running lintian ext-system_1.0.0-4_source.changes ...
+Now running lintian ext-system_1.0.0-5_source.changes ...
 warning: running with root privileges is not recommended!
-E: ext-system source: latest-debian-changelog-entry-without-new-date
 W: ext-system source: maintainer-also-in-uploaders
 W: ext-system source: no-debian-copyright-in-source
 Finished running lintian.

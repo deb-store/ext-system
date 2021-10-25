@@ -1,0 +1,25 @@
+Format: 1.8
+Date: Mon, 25 Oct 2021 12:30:00 +0000
+Source: ext-system
+Architecture: source
+Version: 1.0.0-5
+Distribution: unstable
+Urgency: medium
+Maintainer: Package Store <kitsune.solar@gmail.com>
+Changed-By: Package Store <kitsune.solar@gmail.com>
+Changes:
+ ext-system (1.0.0-5) unstable; urgency=medium
+ .
+   * UPD: Change mirrors to "ftp2.de.debian.org".
+Checksums-Sha1:
+ e243bc0f13586280e78dca82e9a1f15ca10bd484 1010 ext-system_1.0.0-5.dsc
+ aa5c81ebf844674cd4e85512b2fcf57b9aa38d70 952 ext-system_1.0.0-5.debian.tar.xz
+ 87660c265718009e42f0631402fce8b175f0bfa1 4507 ext-system_1.0.0-5_source.buildinfo
+Checksums-Sha256:
+ f7a4b35f90c5ef11e85be0bbe1b1baa8a6cb1ffc8ffcb67cfdb102c9e0a1fc8e 1010 ext-system_1.0.0-5.dsc
+ b1d089a09c2d18ee126ad704fa495db0021b1a8bc7fe803a7c45c8069b50eb4f 952 ext-system_1.0.0-5.debian.tar.xz
+ 9bd2e6ec25e948d071d272fe964991e9b6a7496d89a5563033d7f0e63af30cf5 4507 ext-system_1.0.0-5_source.buildinfo
+Files:
+ 39aa77d03dbea5b218a99abbd3f976e4 1010 admin optional ext-system_1.0.0-5.dsc
+ b2ace56550d0c148af42f58d01917979 952 admin optional ext-system_1.0.0-5.debian.tar.xz
+ 394d973c41b64a49dc4918a37143333d 4507 admin optional ext-system_1.0.0-5_source.buildinfo
