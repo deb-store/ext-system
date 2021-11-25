@@ -12,17 +12,17 @@ Changes:
  .
    * NEW: "APT_AUTO" script.
 Checksums-Sha1:
- cee55d2249bfe20bbc38233506f702bcbd5b7e8d 1016 ext-system_1.0.1-1.dsc
- 026434f869b5af0db3aa41baa2beab81ad633c1b 1088 ext-system_1.0.1.orig.tar.xz
+ 232b471de196e0358b4e9aed35a17da59c34705f 1016 ext-system_1.0.1-1.dsc
+ 6d429cd33e8e7607ad16a8a474fefe54359c56df 1084 ext-system_1.0.1.orig.tar.xz
  9c9ab2da6e67bc2381ee76efc5309a4425c1d11f 1012 ext-system_1.0.1-1.debian.tar.xz
- a841174cf4630687e11bdf99da3df6d9337a07c7 4507 ext-system_1.0.1-1_source.buildinfo
+ 4dee2dec190f57f6914b18302b3d840c83f04a88 4507 ext-system_1.0.1-1_source.buildinfo
 Checksums-Sha256:
- c9408a60fe20940a774ec58358ae4c62da0a2783f0120f3a78158b12a0fed536 1016 ext-system_1.0.1-1.dsc
- c0fec9243f315a01b56df216ad7341581da2cc3e6e5f69dce62bd298b5636c77 1088 ext-system_1.0.1.orig.tar.xz
+ 7c98c3358865d59bc5240fadcfe0956bbf46720baf319fd10eb80cdc81c6ee8b 1016 ext-system_1.0.1-1.dsc
+ a9a5d2dbcd4119c375cbffc99743ec76c8d5af93a2abb1c12355bfcdd63a7442 1084 ext-system_1.0.1.orig.tar.xz
  23392085f8e9307e35cec18899798799842ed7f4430467b5e779991230c10eb8 1012 ext-system_1.0.1-1.debian.tar.xz
- 3f2b4fd16cfc2457c1935711bd5e8dbd9c155fec8831d46b2677edd991c94b1e 4507 ext-system_1.0.1-1_source.buildinfo
+ dcf5b85f98f8a8f710a9b24558c6d5e2b7bd15370590fd31d2ebe76cad426588 4507 ext-system_1.0.1-1_source.buildinfo
 Files:
- 6cdae0ebbfed55b97db8712f30133a58 1016 admin optional ext-system_1.0.1-1.dsc
- b7fea5d7fb86a3ac5bd7a2accb415a28 1088 admin optional ext-system_1.0.1.orig.tar.xz
+ 00bf21cadffa5ff8ed9ea4a6e4a85529 1016 admin optional ext-system_1.0.1-1.dsc
+ 3f61fe71a7a134d8a0872ee879dbf59f 1084 admin optional ext-system_1.0.1.orig.tar.xz
  06caeef7751f3d306edab022f71a5efb 1012 admin optional ext-system_1.0.1-1.debian.tar.xz
- 22e253cc5d967fe6753d2d42b942ac7b 4507 admin optional ext-system_1.0.1-1_source.buildinfo
+ 70e5a94fc8e03cb24c9ad647dbc1e034 4507 admin optional ext-system_1.0.1-1_source.buildinfo
