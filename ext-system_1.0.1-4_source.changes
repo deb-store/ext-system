@@ -1,0 +1,25 @@
+Format: 1.8
+Date: Tue, 30 Nov 2021 10:50:00 +0300
+Source: ext-system
+Architecture: source
+Version: 1.0.1-4
+Distribution: unstable
+Urgency: medium
+Maintainer: Package Store <kitsune.solar@gmail.com>
+Changed-By: Package Store <kitsune.solar@gmail.com>
+Changes:
+ ext-system (1.0.1-4) unstable; urgency=medium
+ .
+   * UPD: "APT_AUTO" script.
+Checksums-Sha1:
+ 01e3634dcf5f5c7312ba3e2122d96058ae4cb82f 1016 ext-system_1.0.1-4.dsc
+ 019bfce5e46b2f03e9da908c67b282a9e8017939 1032 ext-system_1.0.1-4.debian.tar.xz
+ 06466103cd48522ea3fb12b08853996e9f3ffc3c 4507 ext-system_1.0.1-4_source.buildinfo
+Checksums-Sha256:
+ d939f5ccb4954d75a41f89084b75c0268bec88b91e797b229f8d7386a137547a 1016 ext-system_1.0.1-4.dsc
+ 748effe44f878c7468c098e3cc225c840c61da0ba9e92c4409309b9d2018845f 1032 ext-system_1.0.1-4.debian.tar.xz
+ 62fd276c5c520abffa72eca92a5f30c764be1826ce64cc165509f82fb757a3b7 4507 ext-system_1.0.1-4_source.buildinfo
+Files:
+ dd53c3487aa467f03f9f8e49532a5c13 1016 admin optional ext-system_1.0.1-4.dsc
+ b5acce3abc8f8749d289d2423d443279 1032 admin optional ext-system_1.0.1-4.debian.tar.xz
+ c9bace68c6d188fd100ae2677c138afb 4507 admin optional ext-system_1.0.1-4_source.buildinfo
