@@ -1,6 +1,6 @@
  dpkg-buildpackage -us -uc -ui -i -d -S
 dpkg-buildpackage: info: source package ext-system
-dpkg-buildpackage: info: source version 1.0.1-2
+dpkg-buildpackage: info: source version 1.0.1-3
 dpkg-buildpackage: info: source distribution unstable
 dpkg-buildpackage: info: source changed by Package Store <kitsune.solar@gmail.com>
  dpkg-source -i --before-build .
@@ -18,14 +18,14 @@ dpkg-source: warning: ignoring deletion of directory cron.d
 dpkg-source: warning: ignoring deletion of file cron.d/apt_auto, use --include-removal to override
 dpkg-source: warning: ignoring deletion of directory sysctl.d
 dpkg-source: warning: ignoring deletion of file sysctl.d/00-sysctl.custom.conf, use --include-removal to override
-dpkg-source: info: building ext-system in ext-system_1.0.1-2.debian.tar.xz
-dpkg-source: info: building ext-system in ext-system_1.0.1-2.dsc
+dpkg-source: info: building ext-system in ext-system_1.0.1-3.debian.tar.xz
+dpkg-source: info: building ext-system in ext-system_1.0.1-3.dsc
  dpkg-genbuildinfo --build=source
- dpkg-genchanges --build=source >../ext-system_1.0.1-2_source.changes
+ dpkg-genchanges --build=source >../ext-system_1.0.1-3_source.changes
 dpkg-genchanges: info: not including original source code in upload
  dpkg-source -i --after-build .
 dpkg-buildpackage: info: binary and diff upload (original source NOT included)
-Now running lintian ext-system_1.0.1-2_source.changes ...
+Now running lintian ext-system_1.0.1-3_source.changes ...
 warning: running with root privileges is not recommended!
 W: ext-system source: maintainer-also-in-uploaders
 W: ext-system source: no-debian-copyright-in-source
