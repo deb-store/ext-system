@@ -1,0 +1,25 @@
+Format: 1.8
+Date: Wed, 23 Mar 2022 23:00:00 +0300
+Source: ext-system
+Architecture: source
+Version: 1.0.1-7
+Distribution: unstable
+Urgency: medium
+Maintainer: Package Store <mail@z17.dev>
+Changed-By: Package Store <mail@z17.dev>
+Changes:
+ ext-system (1.0.1-7) unstable; urgency=medium
+ .
+   * UPD: Revert "contrib-non-free" Debian repository.
+Checksums-Sha1:
+ 3542fa9a761a20dc8b98ccb37eb3083acf104ae8 994 ext-system_1.0.1-7.dsc
+ 8d806302e0af642e59f539b57ac6b9aadf99134e 1116 ext-system_1.0.1-7.debian.tar.xz
+ e54a1238b150d23097b5a8b76cc333bc25f38ab2 4577 ext-system_1.0.1-7_source.buildinfo
+Checksums-Sha256:
+ 0ff9c38b07ecda697e6b1e6beaf152331f4214a200126796f0ccbd9d8086f24f 994 ext-system_1.0.1-7.dsc
+ 1018d0117f1a4c18ecc933778260533a69a47259066be2204f33f96bb966b405 1116 ext-system_1.0.1-7.debian.tar.xz
+ 03de2161ad96f3dd35e726a2a89641e6deb866b34251e165ecdd3cb08c7afd24 4577 ext-system_1.0.1-7_source.buildinfo
+Files:
+ 2d2fe75211a9ec10b6e7df78f14a94b1 994 admin optional ext-system_1.0.1-7.dsc
+ eb6716c4f8865b1afa59e9076a78bbeb 1116 admin optional ext-system_1.0.1-7.debian.tar.xz
+ 35d0402f6f67706c84f34ad0badd8759 4577 admin optional ext-system_1.0.1-7_source.buildinfo
